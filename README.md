@@ -1,7 +1,7 @@
 # My Multipage Website
 
 ## Purpose
-A beginner-friendly portfolio website to demonstrate HTML, CSS, JavaScript, responsive design, and deployment.
+A portfolio website
 
 ## Pages
 - Home
@@ -12,5 +12,4 @@ A beginner-friendly portfolio website to demonstrate HTML, CSS, JavaScript, resp
 - Responsive layout
 - Consistent header and footer
 - Interactive contact form with validation
-
-## Folder Structure
+   
